@@ -1,4 +1,4 @@
-🛒 Amazon Clone
+                          🛒 AMAZON CLONE
 
 <div align="center">🚀 A Modern Amazon Frontend Clone
 
