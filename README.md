@@ -1,4 +1,7 @@
- h1 align="center">🛒 Amazon clone</h1>
+🛒 AMAZO-CLONE
+
+
+
 <p align="center">
 A modern e-Commerce website built with HTML, CSS and JavaScript.
 </p>
