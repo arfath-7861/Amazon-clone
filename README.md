@@ -1,4 +1,4 @@
-🛒 AMAZO-CLONE
+🛒 AMAZON-CLONE
 
 
 
