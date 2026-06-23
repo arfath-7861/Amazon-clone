@@ -1,5 +1,7 @@
  h1 align="center">🛒 Amazon clone</h1>
-
+<p align="center">
+A modern e-Commerce website built with HTML, CSS and JavaScript.
+</p>
 
 <div align="center">🚀 A Modern Amazon Frontend Clone
 
@@ -110,10 +112,6 @@ Arfath Gorte
 B.Tech Engineering Student
 
 Frontend Web Developer
-
-<p align="center">
-A modern e-Commerce website built with HTML, CSS and JavaScript.
-</p>
 
 <p align="center">
   <a href="https://arfath-7861.github.io/Spotify-clone/">
